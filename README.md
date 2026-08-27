@@ -60,5 +60,5 @@ Each entry contains its **date, time, and journal text**.
 
 This project provides practical knowledge of **Python File Handling, OOP, Exception Handling, and Menu-Driven Programming**. It demonstrates how data can be stored, retrieved, searched, and managed using a text file.
 ## Connect me
-*Linkedin - www.linkedin.com/in/dhara-kondhiya-278893411
-*E-mail - sonidhara915@gmail.com
+* Linkedin - www.linkedin.com/in/dhara-kondhiya-278893411
+* E-mail - sonidhara915@gmail.com
